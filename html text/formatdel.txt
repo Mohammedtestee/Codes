@@ -1,0 +1,7 @@
+<html>
+<body>
+
+<p>i weard shirt the color is <del>white</del> black.</p>
+
+</body>
+</html>

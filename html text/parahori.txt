@@ -1,0 +1,17 @@
+<html>
+<body>
+
+<h1>Myself</h1>
+<p>mohammed ibrahim</p>
+<hr>
+
+<h2>Qualification</h2>
+<p>MCA</p>
+<hr>
+
+<h2>Addres</h2>
+<p>pollachi.</p>
+
+</body>
+</html>
+

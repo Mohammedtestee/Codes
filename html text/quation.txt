@@ -1,0 +1,9 @@
+<html>
+<body>
+
+<p>The <abbr title="World wild web">WWW</abbr> was founded in 1999.</p>
+
+<p>WWW means worl wild web</p>
+
+</body>
+</html

@@ -1,0 +1,8 @@
+<html>
+<body>
+
+<h1 style="text-align:initial;">MIDDLE</h1>
+<p style="text-align:center;">BOTTOM.</p>
+
+</body>
+</html>

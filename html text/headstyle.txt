@@ -1,0 +1,10 @@
+<html>
+<body>
+
+<h2>The style Attribute</h2>
+<p>my name is mohammed</p>
+
+<p style="color:red;">i have a bikie.</p>
+
+</body>
+</html>

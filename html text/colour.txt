@@ -1,0 +1,13 @@
+<html>
+<body>
+
+<h1 style="background-color:red;">Tomato</h1>
+<h2 style="background-color:blue;">blue</h2>
+<h3 style="background-color:pink;">pink</h3>
+<h4 style="background-color:yellow;">yellow</h4>
+<h5 style="background-color:violet;">violet</h5>
+<h6 style="background-color:white;">white</h6>
+
+
+</body>
+</html>

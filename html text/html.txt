@@ -1,0 +1,10 @@
+<html>
+<body>
+
+<h2>The style attribute</h2>
+<p>hello</p>
+
+<p style="color:red;">Mohammed ibrahim.</p>
+
+</body>
+</html>
